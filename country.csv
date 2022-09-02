@@ -192,7 +192,7 @@ Belgium-Luxembourg,Belgium-Luxembourg,R1,BLX,58,Europe,0
 Réunion,Reunion,RE,REU,638,Africa,0
 Romania,Romania,RO,ROU,642,Europe,0
 Serbia,Serbia,RS,SRB,688,Europe,0
-Russian Federation (the),Russian Federation,RU,RUS,643,Europe,0
+Russian Federation (the),Russia,RU,RUS,643,Europe,0
 Rwanda,Rwanda,RW,RWA,646,Africa,0
 Saudi Arabia,Saudi Arabia,SA,SAU,682,Middle East and Central Asia,0
 Solomon Islands,Solomon Islands,SB,SLB,90,Oceania,0
@@ -237,12 +237,12 @@ United States Minor Outlying Islands (the),United States Minor Outlying Islands,
 United States of America (the),United States,US,USA,840,North America,1
 Uruguay,Uruguay,UY,URY,858,South America,0
 Uzbekistan,Uzbekistan,UZ,UZB,860,Middle East and Central Asia,0
-Holy See (the),Holy See,VA,VAT,336,Europe,0
+Holy See (the),Vatican,VA,VAT,336,Europe,0
 Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT,670,Carribean,0
 Venezuela (Bolivarian Republic of),Venezuela,VE,VEN,862,South America,0
 Virgin Islands (British),British Virgin Islands,VG,VGB,92,Carribean,0
 Virgin Islands (U.S.),US Virgin Islands,VI,VIR,850,Carribean,0
-Viet Nam,Viet Nam,VN,VNM,704,Asia,0
+Viet Nam,Vietnam,VN,VNM,704,Asia,0
 Vanuatu,Vanuatu,VU,VUT,548,Oceania,0
 World,World,W00,WLD,0,,0
 Wallis and Futuna,Wallis and Futuna,WF,WLF,876,Oceania,0
